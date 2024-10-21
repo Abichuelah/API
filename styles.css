@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif; /* Establece la fuente del cuerpo */
+    background-color: #fff; /* Color de fondo blanco */
+    text-align: center; /* Centra el texto */
+    margin-top: 50px; /* Margen superior */
+}
+
+h1 {
+    color: #333; /* Color del título */
+}
+
+#buscador {
+    margin-top: 20px; /* Margen superior del buscador */
+}
+
+input {
+    padding: 10px; /* Espaciado interno del campo de entrada */
+    font-size: 16px; /* Tamaño de la fuente */
+    width: 200px; /* Ancho del campo de entrada */
+    margin-right: 10px; /* Margen derecho del campo de entrada */
+}
+
+button {
+    padding: 10px; /* Espaciado interno del botón */
+    font-size: 16px; /* Tamaño de la fuente del botón */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+#clima {
+    margin-top: 30px; /* Margen superior para el div del clima */
+    font-size: 18px; /* Tamaño de la fuente del clima */
+    color: #555; /* Color del texto del clima */
+}
+
+#clima img {
+    margin-top: 10px; /* Margen superior para la imagen del ícono */
+    width: 150px;  /* Ancho del ícono */
+    height: 150px; /* Alto del ícono */
+}
+
+.descripcion {
+    margin-top: 5px; /* Margen superior para la descripción */
+    font-size: 22px;  /* Tamaño de la fuente de la descripción */
+    font-weight: bold; /* Establece el texto como negrita */
+    color: #333; /* Color de la descripción */
+}
